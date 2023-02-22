@@ -1,0 +1,9 @@
+.box{
+width: auto;
+display: inline-block;
+
+height: auto;
+}
+#body-container{
+display: flex;
+}

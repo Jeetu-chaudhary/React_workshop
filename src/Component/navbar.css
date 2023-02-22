@@ -1,0 +1,33 @@
+.nav{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 2rem;
+    justify-content: space-between;
+    align-items: center;
+    /* align-content: space-between; */
+    
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    
+    flex-direction: row;
+    
+}
+.nav ul li{
+    margin: 0 1rem;
+    
+}
+.nav span{
+    margin-left: 1rem;
+}
+#searchdiv{
+    margin-right: 1rem;
+}
+#searchdiv input{
+    border-radius: 10px;
+}
+#searchdiv button{
+    background-color: brown;
+}
